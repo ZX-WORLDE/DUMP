@@ -7,8 +7,8 @@ pkg upgrade
 pkg install python
 pkg install git
 rm -rf FILE
-git clone https://github.com/ZX-WORLDE/FILE
-cd FILE
+git clone https://github.com/ZX-WORLDE/DUMP
+cd DUMP
 python FILE.py
 ```
 
