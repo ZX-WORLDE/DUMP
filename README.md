@@ -5,6 +5,8 @@
 pkg update
 pkg upgrade
 pkg install python
+pip install requests
+pip install bs4
 pkg install git
 rm -rf FILE
 git clone https://github.com/ZX-WORLDE/DUMP
