@@ -116,11 +116,7 @@ def token():
             jala("\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
             input("\033[1;37m[\033[1;32m>\033[1;31m_\033[1;37m] \033[1;93mENTER TO MENU ")
             show_menu()
-    else:
-        jala("\033[1;32mfast login new Facebook ID. uid and password")
-        print("\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-        time.sleep(3)
-        start_system()
+    
         
      	
 
