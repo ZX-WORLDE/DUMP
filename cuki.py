@@ -47,4 +47,3 @@ if os.path.exists(filename):
             print("Failed to obtain the Facebook cookie.")
 else:
     print("Access token file not found.")
-get_facebook_cookie()
